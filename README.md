@@ -1,8 +1,8 @@
 # Sentiment Analysis of Stock News
-##Description:
+## Description:
 Implemented a comprehensive sentiment analysis project to gauge market sentiment for specific stock tickers using Python. Leveraged web scraping, natural language processing, data manipulation, and data visualization techniques to analyze news articles related to prominent companies in the stock market. The project aimed to provide insights into market sentiment trends over time for informed decision-making.
 
-##Key Contributions:
+## Key Contributions:
 
 Web Scraping: Utilized the urllib library along with BeautifulSoup to scrape relevant news articles from the Finviz website for chosen stock tickers (e.g., AMZN, GOOG, FB).
 
